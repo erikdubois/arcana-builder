@@ -1,4 +1,4 @@
-# Arcano
+# Arcana
 
 Based on Alis, Ariser, Area and the good work of
 
