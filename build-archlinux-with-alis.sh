@@ -39,8 +39,8 @@ echo
 
 	# setting of the general parameters
 	archisoRequiredVersion="archiso 87-1"
-	buildFolder=$HOME"/Arcano-build"
-	outFolder=$HOME"/Arcano-Out"
+	buildFolder=$HOME"/Arcana-build"
+	outFolder=$HOME"/Arcana-Out"
 	archisoVersion=$(sudo pacman -Q archiso)
 
 	echo "################################################################## "
@@ -147,7 +147,7 @@ echo
 	echo
 	echo "Git clone ALIS"
 	mkdir $buildFolder/archiso/airootfs/alis
-	git clone https://github.com/erikdubois/arcano-installer $buildFolder/archiso/airootfs/alis
+	git clone https://github.com/erikdubois/arcana-installer $buildFolder/archiso/airootfs/alis
 	
 echo
 echo "################################################################## "
