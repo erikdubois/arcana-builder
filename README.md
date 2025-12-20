@@ -48,3 +48,14 @@ I want Xfce4 and Chadwm as my base of operations.
 <p align="center">
   <img src="arcana-chadwm.png" alt="Arcana-chadwm" width="600" />
 </p>
+
+# More screenshots
+
+<p align="center">
+  <img src="arcana-plasma.png" alt="Arcana-plasma" width="600" />
+</p>
+
+<p align="center">
+  <img src="arcana-chadwm-1
+  .png" alt="Arcana-chadwm-1" width="600" />
+</p>
