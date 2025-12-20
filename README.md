@@ -4,6 +4,10 @@ Based on Alis, Ariser, Area and the good work of
 
 https://github.com/picodotdev/alis
 
+# Starting point
+
+A clean Arch Linux installation with Xfce4
+
 <p align="center">
   <img src="arcana-start.png" alt="Arcana" width="600" />
 </p>
